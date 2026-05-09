@@ -1,5 +1,5 @@
 ---
-title: "关于我们"
+title: "About Us"
 meta_title: "关于我们"
 description: "this is meta description"
 image: "/images/image-placeholder.png"
